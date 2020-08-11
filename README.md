@@ -4,7 +4,7 @@ EPITECH project pushswap
 
 C Programing
 
-![project info](img\project_info.png)
+![project info](https://github.com/xBLACKICEx/pushswap/blob/master/img/project_info.png)
 
 ## Build
 
