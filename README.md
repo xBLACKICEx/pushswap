@@ -4,7 +4,7 @@ EPITECH project pushswap
 
 C Programing
 
-![project info](img\project info.png)
+![project info](img\project_info.png)
 
 ## Build
 
